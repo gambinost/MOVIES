@@ -167,7 +167,7 @@ class _MovieRecommendationPageState extends State<MovieRecommendationPage> {
                   ),
                   ElevatedButton(
                     onPressed: fetchByGenre,
-                    child: const Text("Get Top by Genre"),
+                    child: const Text("Recommend by Genre"),
                   )
                 ],
               ),
